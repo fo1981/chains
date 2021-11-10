@@ -16,7 +16,7 @@ Data source available on `_data/chains.json`
     "https://api.mycryptoapi.com/eth"
   ],
   "faucets": [1],
-  "nativeCurrency": { dollar
+  "nativeCurrency": { us,
     "name": "Ether",
     "symbol": "ETH",
     "decimals": 18
