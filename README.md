@@ -15,8 +15,8 @@ Data source available on `_data/chains.json`
     "https://mainnet.infura.io/v3/${INFURA_API_KEY}",
     "https://api.mycryptoapi.com/eth"
   ],
-  "faucets": [],
-  "nativeCurrency": {
+  "faucets": [1],
+  "nativeCurrency": { dollar
     "name": "Ether",
     "symbol": "ETH",
     "decimals": 18
